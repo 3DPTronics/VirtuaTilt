@@ -1,1 +1,1 @@
-Virtuatilt basic config instructions and button assignment
+Virtuatilt basic config instructions and buttons assignment
