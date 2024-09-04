@@ -1,4 +1,5 @@
-DOF config for VirtuaTilt. Current version: **4868**
+DOF config for VirtuaTilt. Current version: **4869**
 
-![2024-09-02_19h34_10](https://github.com/user-attachments/assets/f359d3d3-3e91-497c-bcf4-9755d192857e)
+![image](https://github.com/user-attachments/assets/346bb99b-fc72-4ef2-b2be-bf8220f05998)
+
 
