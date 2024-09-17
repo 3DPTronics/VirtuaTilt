@@ -1,1 +1,1 @@
-Virtuatilt basic config instructions and buttons assignment
+Virtuatilt basic config instructions for Visual Pinball and Pinball FX
