@@ -22,3 +22,5 @@ https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-
 Follow instructions in **/Configurations** folder to setup VirtuaTilt
 
 Download DOF config file from **/DirectOutput** folder
+
+Download DOFLinx config file from **/DOFLinx** folder
