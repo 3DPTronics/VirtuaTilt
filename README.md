@@ -1,6 +1,14 @@
 # VirtuaTilt
 The Ultimate Virtual Pinball Controller
 
+https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-controller-by-3dptronics
+
+Follow instructions in **/Configurations** folder to setup VirtuaTilt
+
+Download DOF config file from **/DirectOutput** folder
+
+Download DOFLinx config file from **/DOFLinx** folder
+
 ![Virtuatilt-Logo](https://github.com/user-attachments/assets/008eb069-ae15-4c05-82a2-afc0d46a5155)
 
 
@@ -15,12 +23,3 @@ The Ultimate Virtual Pinball Controller
 
 ![IMG_2748](https://github.com/user-attachments/assets/2f9ffa84-7a34-46ba-9cd6-81d01bb7d1e9)
 
-
-https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-controller-by-3dptronics
-
-
-- Follow instructions in **/Configurations** folder to setup VirtuaTilt
-
-- Download DOF config file from **/DirectOutput** folder
-
-- Download DOFLinx config file from **/DOFLinx** folder
