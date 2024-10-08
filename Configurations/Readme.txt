@@ -1,1 +1,1 @@
-Virtuatilt basic config instructions for Visual Pinball and Pinball FX
+Virtuatilt basic config instructions for Visual Pinball, Pinball FX and Future Pinball
