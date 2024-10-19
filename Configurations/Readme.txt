@@ -1,1 +1,1 @@
-VirtuaTilt basic config instructions for Visual Pinball, Pinball FX/FX3 and Future Pinball
+VirtuaTilt basic config instructions for Visual Pinball X, Pinball FX/FX3, Future Pinball and Zaccaria Pinball
