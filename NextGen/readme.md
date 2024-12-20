@@ -1,5 +1,5 @@
 # VirtuaTilt NextGen
-An amazing Virtual Pinball controller for Consoles, PC and VR Headset (Meta Quest)
+A revolution in Virtual Pinball controllers. Compatible with Consoles, PC and VR Headset (Meta Quest)
 
 Stay tuned for more infos:
 
