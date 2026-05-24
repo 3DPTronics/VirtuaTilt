@@ -64,6 +64,8 @@ flowchart LR
     linkStyle 1 color:#1a1a1a,font-weight:bold
 ```
 
+<br>
+
 ### ✅ What 3DPTronics officially supports
 
 | Component | Coverage |
@@ -74,6 +76,8 @@ flowchart LR
 | ⚙️&nbsp;**GUIConfigTool** | Configuration, calibration, profile loading, output testing |
 | 🔧&nbsp;**Wireless&nbsp;Kit** | Wireless hardware kit for existing Wired VirtuaTilt owners |
 | 📦&nbsp;**Accessories** | Anything shipped directly by 3DPTronics |
+
+<br>
 
 ### ❌ What we don't officially support
 
@@ -94,6 +98,8 @@ flowchart LR
 > The information is **best-effort** and kept reasonably current — but it is **NOT** the official documentation of those third-party projects.
 > For authoritative answers, always check the **upstream project's own docs and community**.
 
+<br>
+
 ### 🌐 Community help for software
 
 | Project | Community |
@@ -106,6 +112,8 @@ flowchart LR
 | Pinball FX family | [Zen Studios Support](https://support.zenstudios.com/) |
 | PinUP Popper | [VPU PinUP Popper forum](https://vpuniverse.com/forums/forum/162-pinup-popper-baller-installer/) |
 | MAME | [mamedev.org](https://mamedev.org/) |
+
+<br>
 
 ### 💡 Why this matters
 
