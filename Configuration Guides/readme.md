@@ -14,7 +14,11 @@
 > [!NOTE]
 > **2026-05 rename**: the *Wired VirtuaTilt* folder was previously called *Upgraded VirtuaTilt*. Same product, just renamed for clarity. *KL25Z VirtuaTilt (Old Version)* was previously *Standard VirtuaTilt* — discontinued; preserved here for existing owners.
 
-🌐 **[Official Wiki](https://3dptronics.github.io/VirtuaTilt-Wiki/)** &nbsp;·&nbsp; 🎥 **[YouTube tutorials](https://www.youtube.com/@3dptronics)** &nbsp;·&nbsp; 🛒 **[3DPTronics store](https://www.3dptronics.com/)** &nbsp;·&nbsp; 💬 **[Discord](https://discordapp.com/users/927614895984365618/)**
+## 📖 [**Visit the Official VirtuaTilt Wiki →**](https://3dptronics.github.io/VirtuaTilt-Wiki/)
+
+> *The complete documentation hub: setup walkthroughs, troubleshooting, theme gallery, AI chatbot, and downloads. **Start here for any question.***
+
+🎥 [YouTube tutorials](https://www.youtube.com/@3dptronics) &nbsp;·&nbsp; 🛒 [3DPTronics store](https://www.3dptronics.com/) &nbsp;·&nbsp; 💬 [Discord](https://discordapp.com/users/927614895984365618/)
 
 ---
 
