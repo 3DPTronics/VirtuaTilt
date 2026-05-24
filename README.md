@@ -29,6 +29,8 @@ This repository hosts setup guides, DOF / DOFLinx config files, and other resour
 
 ## 📖 [**Visit the Official VirtuaTilt Wiki →**](https://3dptronics.github.io/VirtuaTilt-Wiki/)
 
+🔗 https://3dptronics.github.io/VirtuaTilt-Wiki/
+
 > *The complete documentation hub: setup walkthroughs, troubleshooting, theme gallery, AI chatbot, and downloads. **Start here for any question.***
 
 🎥 [YouTube tutorials](https://www.youtube.com/@3dptronics) &nbsp;·&nbsp; 🛒 [3DPTronics store](https://www.3dptronics.com/) &nbsp;·&nbsp; 💬 [Discord](https://discordapp.com/users/927614895984365618/)
