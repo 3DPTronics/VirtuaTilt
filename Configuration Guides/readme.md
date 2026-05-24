@@ -5,10 +5,14 @@
 
 ## 📂 Quick Links
 
-| | Cabinet | Guides folder |
-|:--:|---|---|
-| 🟦 | **Wireless VirtuaTilt** *(current)* | [Wireless%20VirtuaTilt/](./Wireless%20VirtuaTilt/) |
-| ⬛ | **VirtuaTilt** *(original, wired-only)* | [Upgraded%20VirtuaTilt/](./Upgraded%20VirtuaTilt/) |
+| | Cabinet | Status | Guides folder |
+|:--:|---|---|---|
+| 🟦 | **Wireless VirtuaTilt** | *current flagship* | [Wireless%20VirtuaTilt/](./Wireless%20VirtuaTilt/) |
+| ⬛ | **Wired VirtuaTilt** | *current* | [Wired%20VirtuaTilt/](./Wired%20VirtuaTilt/) |
+| ⚪ | **KL25Z VirtuaTilt** | *legacy — old version* | [KL25Z%20VirtuaTilt%20(Old%20Version)/](./KL25Z%20VirtuaTilt%20%28Old%20Version%29/) |
+
+> [!NOTE]
+> **2026-05 rename**: the *Wired VirtuaTilt* folder was previously called *Upgraded VirtuaTilt*. Same product, just renamed for clarity. *KL25Z VirtuaTilt (Old Version)* was previously *Standard VirtuaTilt* — discontinued; preserved here for existing owners.
 
 🌐 **[Official Wiki](https://3dptronics.github.io/VirtuaTilt-Wiki/)** &nbsp;·&nbsp; 🎥 **[YouTube tutorials](https://www.youtube.com/@3dptronics)** &nbsp;·&nbsp; 🛒 **[3DPTronics store](https://www.3dptronics.com/)** &nbsp;·&nbsp; 💬 **[Discord](https://discordapp.com/users/927614895984365618/)**
 
@@ -51,11 +55,11 @@ flowchart LR
 
 | Component | Coverage |
 |---|---|
-| 🎮 **VirtuaTilt controller** | Wired and Wireless editions, all hardware components |
-| 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool |
+| 🎮 **VirtuaTilt controller** | **Wired VirtuaTilt** and **Wireless VirtuaTilt** (current products), all hardware components. **KL25Z VirtuaTilt** documentation is preserved for existing owners but the product is discontinued. |
+| 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool (RP2040 products only) |
 | 📋 **Bundled profiles** | All BT and USB profiles shipped in the redist |
 | ⚙️ **GUIConfigTool** | Configuration, calibration, profile loading, output testing |
-| 🔧 **Wireless Kit** | Wireless hardware kit for existing VirtuaTilt owners |
+| 🔧 **Wireless Kit** | Wireless hardware kit for existing Wired VirtuaTilt owners |
 | 📦 **Accessories** | Anything shipped directly by 3DPTronics |
 
 ### ❌ What we don't officially support
