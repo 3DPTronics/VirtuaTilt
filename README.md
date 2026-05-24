@@ -1,8 +1,9 @@
 # VirtuaTilt
 
-**The Ultimate Virtual Pinball Controller**
+**Professional virtual pinball controllers by 3DPTronics — the current lineup:**
 
-https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-controller-by-3dptronics
+- 🟦 [**Wireless VirtuaTilt**](https://www.3dptronics.com/retro-arcade/wireless-virtuatilt-the-most-advanced-virtual-pinball-controller-by-3dptronics) — *the most advanced virtual pinball controller* (BLE + USB)
+- ⬛ [**Wired VirtuaTilt**](https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-controller-by-3dptronics) — *the ultimate virtual pinball controller* (USB-only)
 
 This repository hosts setup guides, DOF / DOFLinx config files, and other resources for every VirtuaTilt cabinet variant.
 
