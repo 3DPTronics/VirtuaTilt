@@ -67,12 +67,12 @@ flowchart LR
 
 | Component | Coverage |
 |---|---|
-| 🎮 **VirtuaTilt controller** | **Wired VirtuaTilt** and **Wireless VirtuaTilt** (current products), all hardware components. **KL25Z VirtuaTilt** documentation is preserved for existing owners but the product is discontinued. |
-| 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool (RP2040 products only) |
-| 📋 **Bundled profiles** | All BT and USB profiles shipped in the redist |
-| ⚙️ **GUIConfigTool** | Configuration, calibration, profile loading, output testing |
-| 🔧 **Wireless Kit** | Wireless hardware kit for existing Wired VirtuaTilt owners |
-| 📦 **Accessories** | Anything shipped directly by 3DPTronics |
+| 🎮&nbsp;**VirtuaTilt&nbsp;controller** | **Wired VirtuaTilt** and **Wireless VirtuaTilt** (current products), all hardware components. **KL25Z VirtuaTilt** documentation is preserved for existing owners but the product is discontinued. |
+| 💾&nbsp;**Pinscape&nbsp;Pico&nbsp;firmware** | Updates, OTA flashing, recovery via Updater Tool (RP2040 products only) |
+| 📋&nbsp;**Bundled&nbsp;profiles** | All BT and USB profiles shipped in the redist |
+| ⚙️&nbsp;**GUIConfigTool** | Configuration, calibration, profile loading, output testing |
+| 🔧&nbsp;**Wireless&nbsp;Kit** | Wireless hardware kit for existing Wired VirtuaTilt owners |
+| 📦&nbsp;**Accessories** | Anything shipped directly by 3DPTronics |
 
 ### ❌ What we don't officially support
 
