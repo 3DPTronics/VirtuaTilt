@@ -12,6 +12,7 @@ https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-
 > [!IMPORTANT]
 > **3DPTronics supports the VirtuaTilt controller hardware only.** These guides are a *compendium* to help you connect your VirtuaTilt to third-party pinball software (VPX, Future Pinball + BAM, DOF/DOFLinx, PinEvent, PinUP Popper, etc.). We do **not** provide official support for any third-party software referenced here — for software-specific issues, please refer to each project's own documentation and community channels.
 
+
 ![Virtuatilt-Logo](https://github.com/user-attachments/assets/008eb069-ae15-4c05-82a2-afc0d46a5155)
 
 
