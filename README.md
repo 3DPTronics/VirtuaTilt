@@ -1,25 +1,30 @@
 # VirtuaTilt
-The Ultimate Virtual Pinball Controller
+
+**The Ultimate Virtual Pinball Controller**
 
 https://www.3dptronics.com/retro-arcade/virtuatilt-the-ultimate-virtual-pinball-controller-by-3dptronics
 
-- Follow instructions in **/Configuration Guides** folder to setup VirtuaTilt with different pinball emulators
+This repository hosts setup guides, DOF / DOFLinx config files, and other resources for every VirtuaTilt cabinet variant.
 
-- Download DOF config files from **/DirectOutput (DOF)** folder
+- 📘 **[/Configuration Guides](./Configuration%20Guides/)** — game/host setup walkthroughs per cabinet
+- ⚡ **[/DirectOutput (DOF)](./DirectOutput%20%28DOF%29/)** — DOF cabinet files + config bundles
+- 🔌 **[/DOFLinx](./DOFLinx/)** — sample DOFLinx INI files
 
-- Download DOFLinx config files from **/DOFLinx** folder
-
-# VirtuaTilt Support Scope
+---
 
 > [!IMPORTANT]
-> **3DPTronics supports the VirtuaTilt controller hardware only.** Guides on this GitHub are a *compendium* to help you connect your VirtuaTilt to third-party pinball software (VPX, Future Pinball + BAM, DOF/DOFLinx, PinEvent, PinUP Popper, etc.). We do **not** provide official support for any third-party software referenced here — for software-specific issues, please refer to each project's own documentation and community channels.
+> **3DPTronics supports the VirtuaTilt controller hardware only.** Everything in this repository is a *compendium* to help you connect your VirtuaTilt to third-party pinball software (VPX, Future Pinball + BAM, DOF/DOFLinx, PinEvent, PinUP Popper, etc.). We do **not** provide official support for any third-party software referenced here — for software-specific issues, please refer to each project's own documentation and community channels.
 
 ## 📂 Quick Links
 
-| | Cabinet | Guides folder |
-|:--:|---|---|
-| 🟦 | **Wireless VirtuaTilt** *(current)* | [Wireless%20VirtuaTilt/](./Wireless%20VirtuaTilt/) |
-| ⬛ | **VirtuaTilt** *(original, wired-only)* | [Upgraded%20VirtuaTilt/](./Upgraded%20VirtuaTilt/) |
+| | Cabinet | Status | Guides folder |
+|:--:|---|---|---|
+| 🟦 | **Wireless VirtuaTilt** | *current flagship* | [Configuration%20Guides/Wireless%20VirtuaTilt/](./Configuration%20Guides/Wireless%20VirtuaTilt/) |
+| ⬛ | **Wired VirtuaTilt** | *current* | [Configuration%20Guides/Wired%20VirtuaTilt/](./Configuration%20Guides/Wired%20VirtuaTilt/) |
+| ⚪ | **KL25Z VirtuaTilt** | *legacy — old version* | [Configuration%20Guides/KL25Z%20VirtuaTilt%20(Old%20Version)/](./Configuration%20Guides/KL25Z%20VirtuaTilt%20%28Old%20Version%29/) |
+
+> [!NOTE]
+> **2026-05 rename**: the *Wired VirtuaTilt* folder was previously called *Upgraded VirtuaTilt*. Same product, just renamed for clarity. *KL25Z VirtuaTilt (Old Version)* was previously *Standard VirtuaTilt* — discontinued; preserved here for existing owners. Folder renames have been applied consistently across the entire repo (Configuration Guides, DirectOutput (DOF), DOFLinx).
 
 🌐 **[Official Wiki](https://3dptronics.github.io/VirtuaTilt-Wiki/)** &nbsp;·&nbsp; 🎥 **[YouTube tutorials](https://www.youtube.com/@3dptronics)** &nbsp;·&nbsp; 🛒 **[3DPTronics store](https://www.3dptronics.com/)** &nbsp;·&nbsp; 💬 **[Discord](https://discordapp.com/users/927614895984365618/)**
 
@@ -62,11 +67,11 @@ flowchart LR
 
 | Component | Coverage |
 |---|---|
-| 🎮 **VirtuaTilt controller** | Wired and Wireless editions, all hardware components |
-| 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool |
+| 🎮 **VirtuaTilt controller** | **Wired VirtuaTilt** and **Wireless VirtuaTilt** (current products), all hardware components. **KL25Z VirtuaTilt** documentation is preserved for existing owners but the product is discontinued. |
+| 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool (RP2040 products only) |
 | 📋 **Bundled profiles** | All BT and USB profiles shipped in the redist |
 | ⚙️ **GUIConfigTool** | Configuration, calibration, profile loading, output testing |
-| 🔧 **Wireless Kit** | Wireless hardware kit for existing VirtuaTilt owners |
+| 🔧 **Wireless Kit** | Wireless hardware kit for existing Wired VirtuaTilt owners |
 | 📦 **Accessories** | Anything shipped directly by 3DPTronics |
 
 ### ❌ What we don't officially support
@@ -82,7 +87,7 @@ flowchart LR
 | 💻 System-level | Windows, GPU/audio drivers, USB controllers | Microsoft / vendor support |
 
 > [!NOTE]
-> These configuration guides are a **compendium** — we provide them as a courtesy to save you the hunt across multiple sites. The information is best-effort and kept reasonably current, but is **not** official documentation of those projects.
+> These guides + config files are a **compendium** — provided as a courtesy to save you the hunt across multiple sites. The information is best-effort and kept reasonably current, but is **not** official documentation of those projects.
 
 ### 🌐 Community help for software
 
@@ -107,6 +112,8 @@ The **AI chatbot on the wiki** can help connect VirtuaTilt with most of the soft
 
 📬 **3DPTronics**: [3dptronics.com](https://www.3dptronics.com/) · [Discord](https://discordapp.com/users/927614895984365618/) · [YouTube](https://www.youtube.com/@3dptronics)
 
+---
+
 ![Virtuatilt-Logo](https://github.com/user-attachments/assets/008eb069-ae15-4c05-82a2-afc0d46a5155)
 
 
@@ -120,4 +127,3 @@ The **AI chatbot on the wiki** can help connect VirtuaTilt with most of the soft
 
 
 ![IMG_2748](https://github.com/user-attachments/assets/2f9ffa84-7a34-46ba-9cd6-81d01bb7d1e9)
-
