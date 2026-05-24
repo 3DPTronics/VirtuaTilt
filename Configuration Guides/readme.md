@@ -57,19 +57,19 @@ flowchart LR
 
 | Component | Coverage |
 |---|---|
-| 🎮 **VirtuaTilt cabinet** | Wired and Wireless editions, all hardware components |
+| 🎮 **VirtuaTilt controller** | Wired and Wireless editions, all hardware components |
 | 💾 **Pinscape Pico firmware** | Updates, OTA flashing, recovery via Updater Tool |
 | 📋 **Bundled profiles** | All BT and USB profiles shipped in the redist |
 | ⚙️ **GUIConfigTool** | Configuration, calibration, profile loading, output testing |
-| 🔧 **Wireless Kit** | DIY retrofit kit for existing original-VirtuaTilt owners |
-| 📦 **Accessories** | Anything sold directly by 3DPTronics |
+| 🔧 **Wireless Kit** | Wireless hardware kit for existing VirtuaTilt owners |
+| 📦 **Accessories** | Anything shipped directly by 3DPTronics |
 
 ### ❌ What we don't officially support
 
 | Category | Examples | Where to get help |
 |---|---|---|
-| 🎲 Game engines | VPX, Visual Pinball, Future Pinball, BAM | [VPForums](https://vpforums.org/) · [VP Universe](https://vpuniverse.com/) |
-| 🕹️ Pinball titles | Pinball FX / FX2 / FX3 / VR / M, Star Wars Pinball VR | Game's own support channel |
+| 🎲 Virtual Pinball Game engines | VPX, Visual Pinball, Future Pinball, BAM | [VPForums](https://vpforums.org/) · [VP Universe](https://vpuniverse.com/) |
+| 🕹️ Virtual Pinball titles | Pinball FX / FX2 / FX3 / VR / M, Star Wars Pinball VR | Game's own support channel |
 | 💥 Feedback frameworks | DOF (Direct Output Framework), DOFLinx | [DOF on GitHub](https://github.com/DirectOutput/DirectOutput) · [DOFLinx wiki](https://doflinx.github.io/docs/) |
 | 🎨 DMD / extras | DMDExt, PinEvent V2, PuP-Packs / PUP-Stream | [VP Universe forums](https://vpuniverse.com/) |
 | 🚀 Frontends | PinUP Popper, Baller Installer, LaunchBox / BigBox | Project community channels |
