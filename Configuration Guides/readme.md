@@ -75,7 +75,11 @@ flowchart LR
 | 💻 System-level | Windows, GPU/audio drivers, USB controllers | Microsoft / vendor support |
 
 > [!WARNING]
-> These configuration guides are a **compendium** — we provide them as a courtesy to save you the hunt across multiple sites. The information is best-effort and kept reasonably current, but is **not** official documentation of those projects.
+> ### ⚠️ These configuration guides are a **compendium**, NOT official documentation
+>
+> We provide them as a **courtesy** to save you the hunt across multiple sites.
+> The information is **best-effort** and kept reasonably current — but it is **NOT** the official documentation of those third-party projects.
+> For authoritative answers, always check the **upstream project's own docs and community**.
 
 ### 🌐 Community help for software
 
