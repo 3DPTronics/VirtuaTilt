@@ -74,7 +74,7 @@ flowchart LR
 | 🎬 Emulators / ROMs | MAME, pinball ROMs | [MAMEdev](https://mamedev.org/) |
 | 💻 System-level | Windows, GPU/audio drivers, USB controllers | Microsoft / vendor support |
 
-> [!NOTE]
+> [!WARNING]
 > These configuration guides are a **compendium** — we provide them as a courtesy to save you the hunt across multiple sites. The information is best-effort and kept reasonably current, but is **not** official documentation of those projects.
 
 ### 🌐 Community help for software
