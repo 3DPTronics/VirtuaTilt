@@ -53,6 +53,9 @@ flowchart LR
     class A root
     class B,B1,B2,B3,B4,B5 ours
     class C,C1,C2,C3,C4,C5,C6,C7 theirs
+
+    linkStyle 0 color:#1a1a1a,font-weight:bold
+    linkStyle 1 color:#1a1a1a,font-weight:bold
 ```
 
 ### ✅ What 3DPTronics officially supports
