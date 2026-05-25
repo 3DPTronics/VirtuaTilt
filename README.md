@@ -85,7 +85,7 @@ flowchart LR
 
 <br>
 
-### ❌ What we don't officially support
+### ❌ What we don't support
 
 | Category | Examples | Where to get help |
 |---|---|---|
