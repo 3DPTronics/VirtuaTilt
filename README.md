@@ -27,9 +27,9 @@ This repository hosts setup guides, DOF / DOFLinx config files, and other resour
 > [!NOTE]
 > **2026-05 rename**: the *Wired VirtuaTilt* folder was previously called *Upgraded VirtuaTilt*. Same product, just renamed for clarity. *KL25Z VirtuaTilt (Old Version)* was previously *Standard VirtuaTilt* — discontinued; preserved here for existing owners. Folder renames have been applied consistently across the entire repo (Configuration Guides, DirectOutput (DOF), DOFLinx).
 
-## 📖 [**Visit the Official VirtuaTilt Wiki →**](https://3dptronics.github.io/VirtuaTilt-Wiki/)
+## 📖 [**Visit the Official VirtuaTilt Wiki →**](https://virtuatiltwiki.3dptronics.com/)
 
-🔗 https://3dptronics.github.io/VirtuaTilt-Wiki/
+🔗 https://virtuatiltwiki.3dptronics.com/
 
 > *The complete documentation hub: setup walkthroughs, troubleshooting, theme gallery, AI chatbot, and downloads. **Start here for any question.***
 
