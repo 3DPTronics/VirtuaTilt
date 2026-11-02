@@ -77,7 +77,7 @@ flowchart LR
 | Category | Examples | Where to get help |
 |---|---|---|
 | 🎲 Virtual Pinball Game engines | VPX, Visual Pinball, Future Pinball, BAM | [VPForums](https://vpforums.org/) · [VP Universe](https://vpuniverse.com/) |
-| 🕹️ Virtual Pinball titles | Pinball FX / FX2 / FX3 / VR / M, Star Wars Pinball VR | Game's own support channel |
+| 🕹️ Virtual Pinball titles | Pinball FX / FX2 / FX Classic / VR / M, Star Wars Pinball VR | Game's own support channel |
 | 💥 Feedback frameworks | DOF (Direct Output Framework), DOFLinx | [DOF on GitHub](https://github.com/DirectOutput/DirectOutput) · [DOFLinx wiki](https://doflinx.github.io/docs/) |
 | 🎨 DMD / extras | DMDExt, PinEvent V2, PuP-Packs / PUP-Stream | [VP Universe forums](https://vpuniverse.com/) |
 | 🚀 Frontends | PinUP Popper, Baller Installer, LaunchBox / BigBox | Project community channels |
