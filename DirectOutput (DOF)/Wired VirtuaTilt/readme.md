@@ -1,6 +1,7 @@
-DOF Configuration Files for the Wired VirtuaTilt - Current version: **5386**
+DOF Configuration Files for the Wired VirtuaTilt - Current version: **5505**
 
-<img width="777" height="426" alt="image" src="https://github.com/user-attachments/assets/80f5bfa5-a3a5-4dd3-bf6f-4cbe5eb72c53" />
+<img width="2562" height="1556" alt="image" src="https://github.com/user-attachments/assets/4c172ca6-530f-4489-a883-5c2946e003bf" />
+
 
 
 
