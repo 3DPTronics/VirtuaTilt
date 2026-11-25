@@ -39,6 +39,12 @@ This repository hosts setup guides, DOF / DOFLinx config files, and other resour
 
 > *A free Claude Desktop extension that reads **your** configuration — your profiles, your DOF, your DOFLinx — and names the file and the line that is wrong, instead of listing what is usually wrong. It is the fastest way to tell a **controller** fault from a **PC** fault. Windows + Claude Desktop, for a VirtuaTilt you already own. Beta.*
 
+## 🎛️ [**VirtuaTilt Pulse — DOF and DOFLinx set up in one click →**](https://virtuatiltwiki.3dptronics.com/feedback/virtuatilt-pulse/)
+
+🔗 https://virtuatiltwiki.3dptronics.com/feedback/virtuatilt-pulse/
+
+> *Our Windows app that sets up the feedback of your VirtuaTilt for you: it checks your PC and gets **DOF** (Visual Pinball X, Future Pinball) and **DOFLinx** (Pinball FX, Pinball M, Infected Mushroom Pinball, Pinball FX Classic) ready — DOFLinx.INI, DOFLinxTrigger.dll next to Pinball FX, Pinball M and Infected Mushroom Pinball, the B2S → DOF shortcuts, our DOF config files — and tells you exactly what is left for you, with the link and the folder. **Test DOF**, **Start DOFLinx** and **Test DOFLinx** buttons fire the cabinet to check it. It does not download or install DOF or DOFLinx (it tells you where to get them), and nothing starts with Windows. Download it from the private Google Drive folder that VirtuaTilt owners have access to.*
+
 🎥 [YouTube tutorials](https://www.youtube.com/@3dptronics) &nbsp;·&nbsp; 🛒 [3DPTronics store](https://www.3dptronics.com/) &nbsp;·&nbsp; 💬 [Discord](https://discordapp.com/users/927614895984365618/)
 
 ---
